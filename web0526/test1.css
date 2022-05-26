@@ -1,0 +1,33 @@
+.text0 {
+    text-align: center;
+    background: #a81616;
+    width: 500px;
+}
+
+.text1 {
+    margin-bottom: 0;
+}
+
+.text2 {
+    background: yellow;
+    text-align: center;
+    width: 200px;
+    height: 117px;
+    float: left;
+}
+
+.text3 {
+    background: #fcacac;
+    height: 117px;
+    width: 300px;
+    float: left;
+}
+
+.text4 {
+    background: burlywood;
+    clear: both;
+    width: 500px;
+    height: 30px;
+    text-align: center;
+
+}
